@@ -6,4 +6,12 @@ export const Images = {
   userKeys: "./assets/user-key.svg",
   userPlaceholder: "./assets/userPlaceholder.svg",
   down: "./assets/down.svg",
+  iconLeft: "./assets/Iconleft.svg",
+  favourite: "./assets/Favorite.svg",
+  add: "./assets/Add.svg",
+  copy: "./assets/Copy.svg",
+  Cli: "./assets/Cli.svg",
+  testnetImages: "./assets/Testnet_Images.svg",
+  members: "./assets/Members.svg",
+  projectKeys: "./assets/Project_Key.svg",
 };

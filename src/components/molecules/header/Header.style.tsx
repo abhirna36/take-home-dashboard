@@ -31,3 +31,9 @@ export const LeftItems = styled.div`
   display: flex;
   margin-left: 2rem;
 `;
+
+export const UserImageContainer = styled.div`
+  display: flex;
+  align-items: center;
+  margin-left: 2.5rem;
+`;
